@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sheldon Odhiambo</h1>
-<h3 align="center"> Good day! Sheldon is a dedicated developer and genuine music lover. I enjoy getting immersed in the melodies of great music and exploring the possibilities that code provides.
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/0*7Q3yvSIv_t0ioJ-Z.gif">
+<p align="center"> Good day! Sheldon is a dedicated developer and genuine music lover. I enjoy getting immersed in the melodies of great music and exploring the possibilities that code provides.
 
 I've encouraged a growth attitude and embraced the idea of ongoing learning throughout my career as a developer. Every difficulty I face gives me the chance to broaden my skill set and knowledge base. I think the secret to success is to keep an open mind to new concepts and enthusiastically welcome change.
 
-I'm currently searching for a company that values both professional and personal development. Finding a position where I can not only develop my talents but also support the expansion and success of the business excites me.</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/0*7Q3yvSIv_t0ioJ-Z.gif">
+I'm currently searching for a company that values both professional and personal development. Finding a position where I can not only develop my talents but also support the expansion and success of the business excites me.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheldon-odhiambo" alt="sheldon-odhiambo" /></a> </p>
 
