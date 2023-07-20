@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheldon Odhiambo</h1>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="coding" width="400" src="https://www.behance.net/search?content=projects&user_tags=1555631">
 <p align="center"> Good day! Sheldon is a dedicated developer and genuine music lover. I enjoy getting immersed in the melodies of great music and exploring the possibilities that code provides.
 
 I'm currently searching for a company that values both professional and personal development. Finding a position where I can not only develop my talents but also support the expansion and success of the business excites me.</p>
